@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShridharMP
-- 👀 I’m interested in ...Java,Spring Framework,SpringBoot,Microservices,K8's,Docker and AWS
+- 👀 I’m interested in ...Java,Spring Framework,SpringBoot,Microservices,Angular,K8's,Docker and AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pshridhar4@gmail.com
 
